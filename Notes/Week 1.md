@@ -2,7 +2,7 @@
 
 ## 1. SAP Meaning
 
-SAP stands for:
+SAP stands for:-
 
 **Systems, Applications, and Products in Data Processing**
 
