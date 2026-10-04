@@ -12,7 +12,7 @@ SAP is an enterprise software system used by companies to manage and integrate t
 
 ## 2. What is ERP?
 
-ERP stands for:
+ERP stands for:-
 
 **Enterprise Resource Planning**
 
